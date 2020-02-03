@@ -12,7 +12,7 @@ Jovem gafanhoto no mundo da programação mas desde criança sou apaixonado por 
 * HTML e CSS
 * Javascript 
 * NodeJs
- Todas as linguagens citadas acimas apenas com experiências academicas e de cursos
+* Todas as linguagens citadas acimas apenas com experiências academicas e de cursos
 * Inglês suficiente para ler e entender.
 
 ## Formação
