@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/egP2hwx.jpg" />
 
-Local: Feira de Santana - Bahia | Idade: 2 anos
+Local: Feira de Santana - Bahia | Idade: 26 anos
 
 Jovem gafanhoto no mundo da programação mas desde criança sou apaixonado por tecnologia.
 
