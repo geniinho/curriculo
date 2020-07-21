@@ -8,7 +8,7 @@ Jovem gafanhoto no mundo da programação mas desde criança sou apaixonado por 
 
 ## Conhecimentos
 
-* Python 
+* Conhecimento de orientação a objetos com Java e Python
 * HTML e CSS
 * Javascript 
 * NodeJs
