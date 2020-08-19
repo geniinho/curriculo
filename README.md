@@ -12,7 +12,8 @@ Jovem gafanhoto no mundo da programação mas desde criança sou apaixonado por 
 * HTML e CSS
 * Javascript 
 * NodeJs
-* SQL (busca e alterações em tabelas)
+* SQL
+* Microsoft Azure - Introdução à Inteligência Artificial
 * Todas as linguagens citadas acimas apenas com experiências academicas e de cursos
 * Inglês suficiente para ler e entender.
 
