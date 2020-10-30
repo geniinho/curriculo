@@ -2,20 +2,44 @@
 
 <img src="https://i.imgur.com/egP2hwx.jpg" />
 
-Local: Feira de Santana - Bahia | Idade: 26 anos
+Local: Salvador - Bahia | Idade: 27 anos
 
 Jovem gafanhoto no mundo da programação mas desde criança sou apaixonado por tecnologia.
 
 ## Conhecimentos
 
-* Conhecimento de orientação a objetos com Java e Python
-* HTML e CSS
-* Javascript 
-* NodeJs
-* SQL
-* Microsoft Azure - Introdução à Inteligência Artificial
-* Todas as linguagens citadas acimas apenas com experiências academicas e de cursos
-* Inglês suficiente para ler e entender.
+* Inglês técnico
+
+* Cursos extra curricular:
+Microsoft Azure - Introdução à inteligência artificial (30h)
+
+* Linguagens:
+Python
+Java
+Php
+SQL
+JavaScript
+
+* Noções básicas com os FrameWorks:
+NodeJs
+Laravel
+Angular
+Arquitetura MVC
+
+* Ferramentas de teste:
+Mantis
+Junit
+JMeter
+BlazeMeter
+
+## EXPERIÊNCIA PROFISSIONAL
+• Help desk
+Empresa: Focus - Tecnologia em sistemas
+Cargo: Suporte técnico
+Duração: 1 ano
+- Implantação de sistema, parametrização do banco de dados,
+treinamento e suporte ao usuário
+
 
 ## Formação
 
