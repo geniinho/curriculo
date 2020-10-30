@@ -14,22 +14,22 @@ Jovem gafanhoto no mundo da programação mas desde criança sou apaixonado por 
 Microsoft Azure - Introdução à inteligência artificial (30h)
 
 * Linguagens:
-Python
-Java
-Php
-SQL
+Python,
+Java,
+Php,
+SQL,
 JavaScript
 
 * Noções básicas com os FrameWorks:
-NodeJs
-Laravel
-Angular
+NodeJs,
+Laravel,
+Angular,
 Arquitetura MVC
 
 * Ferramentas de teste:
-Mantis
-Junit
-JMeter
+Mantis,
+Junit,
+JMeter,
 BlazeMeter
 
 ## EXPERIÊNCIA PROFISSIONAL
